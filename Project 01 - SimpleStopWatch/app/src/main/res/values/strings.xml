@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="text_default">0.0</string>
+    <string name="reset_title">Reset</string>
+</resources>
