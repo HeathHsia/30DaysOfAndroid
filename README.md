@@ -2,7 +2,7 @@
 
 Thx for [30DaysofSwift](https://github.com/allenwong/30DaysofSwift)
 
-First, I am a iOS developer.
+First, I'm a iOS developer.
 
 There is a recent demand for android development.
 
