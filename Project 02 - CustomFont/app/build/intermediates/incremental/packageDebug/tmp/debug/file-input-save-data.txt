@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Fri Aug 10 14:08:55 CST 2018
+2.base=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 02 - CustomFont/app/build/intermediates/assets/debug
+0.path=font/Gaspar Regular.otf
+2.baseType=DIRECTORY
+3.base=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 02 - CustomFont/app/build/intermediates/transforms/dexMerger/debug/0
+2.set=ASSET
+1.path=font/MFZhiHei_Noncommercial-Regular.ttf
+4.base=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 02 - CustomFont/app/build/intermediates/assets/debug
+count=5
+2.path=font/MFJinHei_Noncommercial-Regular.ttf
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=font/MFTongXin_Noncommercial-Regular.ttf
+1.baseType=DIRECTORY
+0.base=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 02 - CustomFont/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 02 - CustomFont/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=ASSET
