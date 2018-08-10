@@ -20,4 +20,8 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 
 ![proj1.gif](img/proj2.gif)
 
-**[Project 03 - PlayLocalVideo]()**
+**[Project 03 - PlayLocalVideo](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2003%20-%20PlayLocalVideo)**
+
+![proj1.gif](img/proj3.gif)
+
+**[Project 04 - SnapChatMenu]()**
