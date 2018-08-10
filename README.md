@@ -8,7 +8,7 @@ There is a recent demand for android development.
 
 I plan to start learning android develop.
 
-So Just do 30DaysOfAndroid !
+So just do 30DaysOfAndroid !
 
 Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) gave me
 
@@ -16,6 +16,8 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 
 ![proj1.gif](img/proj1.gif)
 
-**[Project 02 - CustomFont]()**
+**[Project 02 - CustomFont](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2002%20-%20CustomFont)**
 
 ![proj1.gif](img/proj2.gif)
+
+**[Project 03 - PlayLocalVideo]()**
