@@ -1,4 +1,4 @@
-#Fri Aug 10 14:08:55 CST 2018
+#Fri Aug 10 15:23:01 CST 2018
 base.0=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 02 - CustomFont/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

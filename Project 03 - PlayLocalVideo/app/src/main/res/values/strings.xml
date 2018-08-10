@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PlayLocalVideo</string>
+    <string name="title_placehold">Introduce 3DS Mario</string>
+    <string name="source_placehold">Youtube - 06:32</string>
 </resources>

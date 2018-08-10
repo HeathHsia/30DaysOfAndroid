@@ -32,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
         listView.setAdapter(adapter);
     }
 
+    /**
+     * Change Font
+     * @param view
+     */
     public void changeFont (View view) {
         Log.d("randomIndex",fontList[index]);
         Log.d("ChangeFont", "Change Font");

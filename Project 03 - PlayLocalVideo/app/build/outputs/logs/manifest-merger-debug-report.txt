@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/b8522f6cfc4940562dee5d62d4de251a/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/heath/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6086fe032241f5cbdf78cd7c3b8b6534/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/ba761e0036c5a7ea3ee7e48147fe808e/AndroidManifest.xml:17:1-22:12
@@ -30,20 +30,20 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/heath/.gradle/caches
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fe998ec02ba20fa2df9295be6dffa6eb/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2123f76624f72db500a8b844653a808c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/fa8a2ef3b80e8387b222df5e2cb248fa/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-22:12
 		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:11-69
@@ -83,6 +83,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:16:27-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:21:22-64
 uses-sdk
 INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
