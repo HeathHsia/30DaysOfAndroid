@@ -1,4 +1,4 @@
-#Fri Aug 10 14:52:27 CST 2018
+#Fri Aug 10 15:10:54 CST 2018
 base.0=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
