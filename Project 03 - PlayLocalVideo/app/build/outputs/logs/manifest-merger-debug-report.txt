@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/b8522f6cfc4940562dee5d62d4de251a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/heath/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6086fe032241f5cbdf78cd7c3b8b6534/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/ba761e0036c5a7ea3ee7e48147fe808e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/1d096025a3570afb634c09ddaa24f082/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/a0c6e64a4205255959569531159a0ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/a468c03731c512fa9d9f91b29e40446c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/cfdbc6d5a9123528afe8f905622cb870/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/467cb8ed8405a3de4b1131983ed118f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/9182c73b3b83dcbaad2dee2f42905055/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/045ab8ca62b2edfbcfd7e5286ea42bee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/5a4e89bffa0654937784d63438ecd3bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/0700a01e9017af8f50576f7aafad74ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/346f5dd03e6540871967875bce20a542/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/1e2a563e07112e44afd6aed664995dda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/f7935d3e8a6a8e3ac4af687d71f1c25a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f92b8de3fd98738a21061ba0f13e7627/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fb363e08877b73892e54fa0ed8535900/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/a1b894a281e6872fb8ad97c2110ceb81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6cf675d0daf5be3cda01b9d3c41f539/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/820e6d2c34fc45850bbc54cbb844c14b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/5463ebd88187bb09d7c9bc052a8c2ee4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/951885baf0d41ba9f71d0107aea81003/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e158feeaa216c6871f575ad9148db5da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fe998ec02ba20fa2df9295be6dffa6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2123f76624f72db500a8b844653a808c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/fa8a2ef3b80e8387b222df5e2cb248fa/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/heath/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6086fe032241f5cbdf78cd7c3b8b6534/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/heath/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6086fe032241f5cbdf78cd7c3b8b6534/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f92b8de3fd98738a21061ba0f13e7627/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f92b8de3fd98738a21061ba0f13e7627/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fb363e08877b73892e54fa0ed8535900/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fb363e08877b73892e54fa0ed8535900/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f92b8de3fd98738a21061ba0f13e7627/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.heath.playlocalvideo.MainActivity
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/b8522f6cfc4940562dee5d62d4de251a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/b8522f6cfc4940562dee5d62d4de251a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/heath/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6086fe032241f5cbdf78cd7c3b8b6534/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/heath/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6086fe032241f5cbdf78cd7c3b8b6534/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/ba761e0036c5a7ea3ee7e48147fe808e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/ba761e0036c5a7ea3ee7e48147fe808e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/1d096025a3570afb634c09ddaa24f082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/1d096025a3570afb634c09ddaa24f082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/a0c6e64a4205255959569531159a0ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/a0c6e64a4205255959569531159a0ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/a468c03731c512fa9d9f91b29e40446c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/a468c03731c512fa9d9f91b29e40446c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/cfdbc6d5a9123528afe8f905622cb870/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/cfdbc6d5a9123528afe8f905622cb870/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/467cb8ed8405a3de4b1131983ed118f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/467cb8ed8405a3de4b1131983ed118f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/9182c73b3b83dcbaad2dee2f42905055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/9182c73b3b83dcbaad2dee2f42905055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/045ab8ca62b2edfbcfd7e5286ea42bee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/045ab8ca62b2edfbcfd7e5286ea42bee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/5a4e89bffa0654937784d63438ecd3bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/5a4e89bffa0654937784d63438ecd3bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/0700a01e9017af8f50576f7aafad74ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/0700a01e9017af8f50576f7aafad74ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/346f5dd03e6540871967875bce20a542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/346f5dd03e6540871967875bce20a542/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/1e2a563e07112e44afd6aed664995dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/1e2a563e07112e44afd6aed664995dda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/f7935d3e8a6a8e3ac4af687d71f1c25a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/f7935d3e8a6a8e3ac4af687d71f1c25a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f92b8de3fd98738a21061ba0f13e7627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/f92b8de3fd98738a21061ba0f13e7627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fb363e08877b73892e54fa0ed8535900/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/fb363e08877b73892e54fa0ed8535900/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/a1b894a281e6872fb8ad97c2110ceb81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/a1b894a281e6872fb8ad97c2110ceb81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6cf675d0daf5be3cda01b9d3c41f539/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e6cf675d0daf5be3cda01b9d3c41f539/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/820e6d2c34fc45850bbc54cbb844c14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/820e6d2c34fc45850bbc54cbb844c14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/5463ebd88187bb09d7c9bc052a8c2ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/5463ebd88187bb09d7c9bc052a8c2ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/951885baf0d41ba9f71d0107aea81003/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/951885baf0d41ba9f71d0107aea81003/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e158feeaa216c6871f575ad9148db5da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e158feeaa216c6871f575ad9148db5da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fe998ec02ba20fa2df9295be6dffa6eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fe998ec02ba20fa2df9295be6dffa6eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2123f76624f72db500a8b844653a808c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/heath/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2123f76624f72db500a8b844653a808c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/fa8a2ef3b80e8387b222df5e2cb248fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/heath/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/fa8a2ef3b80e8387b222df5e2cb248fa/AndroidManifest.xml:20:5-44
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 03 - PlayLocalVideo/app/src/main/AndroidManifest.xml
