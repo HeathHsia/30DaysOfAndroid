@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomFont</string>
+    <string name="button_title">Change Font</string>
+</resources>
