@@ -25,3 +25,7 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 ![proj1.gif](img/proj3.gif)
 
 **[Project 04 - SnapChatMenu]()**
+
+![proj1.gif](img/proj4.gif)
+
+**[Project 05 - CarouselEffect]()**
