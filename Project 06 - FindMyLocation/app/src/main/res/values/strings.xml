@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FindMyLocation</string>
+    <string name="button_title">Find My Location</string>
+    <string name="location_title">My Location</string>
 </resources>

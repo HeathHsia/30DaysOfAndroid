@@ -42,10 +42,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void setGrideView () {
         int size = dataList.length;
-//        int length = 100;
-//        DisplayMetrics dm = new DisplayMetrics();
-//        getWindowManager().getDefaultDisplay().getMetrics(dm);
-//        float density = dm.density;
         int gridviewWidth = (int) (size * (600 + 20));
         int itemWidth = (int) 600;
 
