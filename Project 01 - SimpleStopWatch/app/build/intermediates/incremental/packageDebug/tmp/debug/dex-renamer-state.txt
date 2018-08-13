@@ -1,4 +1,4 @@
-#Fri Aug 10 14:03:30 CST 2018
+#Mon Aug 13 16:07:16 CST 2018
 base.0=/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 01 - SimpleStopWatch/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -24,7 +24,7 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 
 ![proj1.gif](img/proj3.gif)
 
-**[Project 04 - SnapChatMenu]()**
+**[Project 04 - SnapChatMenu](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2004%20-%20SnapChatMenu)**
 
 ![proj1.gif](img/proj4.gif)
 
