@@ -29,3 +29,7 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 ![proj1.gif](img/proj4.gif)
 
 **[Project 05 - CarouselEffect]()**
+
+![proj1.gif](img/proj5.gif)
+
+**[Project 06 - FindMyLocation]()**
