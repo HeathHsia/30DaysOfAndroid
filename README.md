@@ -32,7 +32,7 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 
 ![proj1.gif](img/proj5.gif)
 
-**[Project 06 - FindMyLocation]()**
+**[Project 06 - FindMyLocation](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2006%20-%20FindMyLocation)**
 
 ![proj1.gif](img/proj6.gif)
 
