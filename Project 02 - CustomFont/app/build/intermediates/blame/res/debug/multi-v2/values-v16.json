@@ -4,7 +4,17 @@
             "outputFile": "/Users/heath/Desktop/git local repository/30DaysOfAndroidRP/Project 02 - CustomFont/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/heath/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/4c804f8af332b55c3b8c4ce1b2fbf3e4/res/values-v16/values-v16.xml",
+                    "source": "/Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/0735e5985766198ffc605c4a57b839ac/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/heath/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/71767e52f0396a5cf891e5c7069705e7/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/heath/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c97c54245bbe3daa94e0e74fb796a6d7/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

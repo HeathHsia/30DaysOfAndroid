@@ -18,22 +18,26 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 
 **[Project 02 - CustomFont](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2002%20-%20CustomFont)**
 
-![proj1.gif](img/proj2.gif)
+![proj2.gif](img/proj2.gif)
 
 **[Project 03 - PlayLocalVideo](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2003%20-%20PlayLocalVideo)**
 
-![proj1.gif](img/proj3.gif)
+![proj3.gif](img/proj3.gif)
 
 **[Project 04 - SnapChatMenu](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2004%20-%20SnapChatMenu)**
 
-![proj1.gif](img/proj4.gif)
+![proj4.gif](img/proj4.gif)
 
 **[Project 05 - CarouselEffect](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2005%20-%20CarouselEffect)**
 
-![proj1.gif](img/proj5.gif)
+![proj5.gif](img/proj5.gif)
 
 **[Project 06 - FindMyLocation](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2006%20-%20FindMyLocation)**
 
-![proj1.gif](img/proj6.gif)
+![proj6.gif](img/proj6.gif)
 
 **[Project 07 - PullToRefresh]()**
+
+![proj7.gif](img/proj7.gif)
+
+**[Project 08 - RandomGradientColorMusic]()**
