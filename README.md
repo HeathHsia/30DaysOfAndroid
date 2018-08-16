@@ -36,8 +36,8 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 
 ![proj6.gif](img/proj6.gif)
 
-**[Project 07 - PullToRefresh]()**
+**[Project 07 - PullToRefresh](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2007%20-%20PullToRefresh)**
 
 ![proj7.gif](img/proj7.gif)
 
-**[Project 08 - RandomGradientColorMusic]()**
+**[Project 08 - RandomGradientColorMusic](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2008%20-%20RandomGradientColorMusic)**
