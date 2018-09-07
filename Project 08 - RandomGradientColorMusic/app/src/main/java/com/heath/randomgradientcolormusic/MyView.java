@@ -20,11 +20,14 @@ public class MyView extends View {
     public MyView (Context context, @Nullable AttributeSet attr) {
         super(context, attr);
     }
-
+    // 初始化
     public MyView (Context context, @Nullable AttributeSet attr, int defStyleAttr) {
         super(context, attr, defStyleAttr);
     }
 
+    /**
+     *  Custom Gradient View
+     */
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
@@ -35,5 +38,4 @@ public class MyView extends View {
         paint.setShader(backGradient);
         canvas.drawRect(0,0, width, height, paint);
     }
-
 }
