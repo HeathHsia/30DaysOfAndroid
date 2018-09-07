@@ -1,5 +1,6 @@
 package com.heath.randomgradientcolormusic;
 
+import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -10,6 +11,9 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class MainActivity extends AppCompatActivity {
+
+    // 音乐播放器
+    private MediaPlayer player = new MediaPlayer();
 
     private MyView myView;
 
@@ -25,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         myView = findViewById(R.id.my_view);
+
         // 初始化渐变数据源
         colors.add(new int[]{getResources().getColor(R.color.colorGreen), getResources().getColor(R.color.colorRed), getResources().getColor(R.color.colorBlue)});
         colors.add(new int[]{getResources().getColor(R.color.colorGreen), getResources().getColor(R.color.colorBlue), getResources().getColor(R.color.colorRed)});
@@ -46,6 +51,9 @@ public class MainActivity extends AppCompatActivity {
                 });
             }
         }, 100,100);
+        // 播放音乐
+        player = MediaPlayer.create(this, R.raw.music);
+        player.start();
     }
 
     public void myViewClick(View view) {
