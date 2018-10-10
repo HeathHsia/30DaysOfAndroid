@@ -46,5 +46,12 @@ Thx again for the inspiration [30DaysofSwift](https://github.com/allenwong/30Day
 
 **[Project 09 - ImageScroller](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2008%20-%20RandomGradientColorMusic)**
 
-![proj8.gif](img/proj9.gif)
+![proj9.gif](img/proj9.gif)
+
+**[Project 10 - VideoBackground](https://github.com/HeathHsia/30DaysOfAndroid/tree/master/Project%2008%20-%20RandomGradientColorMusic)**
+
+![proj10.gif](img/proj10.gif)
+
+
+
 
